@@ -1,0 +1,5 @@
+{
+  "name": "VibeGen Wallpapers",
+  "description": "Generate stunning 9:16 phone wallpapers based on your vibe using Imagen 4.",
+  "requestFramePermissions": []
+}
